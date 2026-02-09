@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=NAME&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%E5%90%BE%E5%8D%B3%E6%98%AF%E6%B1%9D%EF%BC%8C%E6%B1%9D%E5%8D%B3%E6%98%AF%E5%90%BE&descAlignY=55&descAlign=60"
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=lyw&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%E5%90%BE%E5%8D%B3%E6%98%AF%E6%B1%9D%EF%BC%8C%E6%B1%9D%E5%8D%B3%E6%98%AF%E5%90%BE&descAlignY=55&descAlign=60"
         width="100%" />
 </div>
 
