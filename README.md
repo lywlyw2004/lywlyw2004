@@ -10,13 +10,13 @@
 邮箱: [linyuwen@ustc.edu.cn](mailto:XXXX.com) &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <p align="left">
-    <img src="https://img.shields.io/badge/SwiftUI-d91c25?style=flat-square&logo=swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+    #<img src="https://img.shields.io/badge/SwiftUI-d91c25?style=flat-square&logo=swift&logoColor=white" />
+    #<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-d91c25?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-d91c25?style=flat-square&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-d91c25?style=flat-square&logo=node.js&logoColor=white" />
+    #<img src="https://img.shields.io/badge/Node.js-d91c25?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
 ## 👨‍💻 关于我 
