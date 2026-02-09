@@ -4,10 +4,10 @@
         width="100%" />
 </div>
 
-## 👋 你好，我是XXX ！
+## 👋 你好，我是linyuwen ！
 **个人定位**
 
-邮箱: [XXX.com](mailto:XXXX.com) &nbsp;&nbsp;|&nbsp;&nbsp; 
+邮箱: [linyuwen@ustc.edu.cn](mailto:XXXX.com) &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <p align="left">
     <img src="https://img.shields.io/badge/SwiftUI-d91c25?style=flat-square&logo=swift&logoColor=white" />
@@ -21,11 +21,11 @@
 
 ## 👨‍💻 关于我 
 
-这里可以写一段简短的自我介绍，比如你正在学习什么，或者你在寻找什么样的合作机会。
+计算机科学与技术就读中，目前专注于高性能计算方向，对ai及大模型性能优化也有浓厚兴趣。
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lywlyw2004)
-![lyw's GitHub stats](https://github-readme-stats.vercel.app/api?username=lywlyw2004)
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lywlyw2004)
+#![lyw's GitHub stats](https://github-readme-stats.vercel.app/api?username=lywlyw2004)
 <!--
 **lywlyw2004/lywlyw2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
