@@ -20,9 +20,6 @@
 
 计算机科学与技术就读中，目前专注于高性能计算方向，对ai及大模型性能优化也有浓厚兴趣。
 
-
-#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lywlyw2004)
-#![lyw's GitHub stats](https://github-readme-stats.vercel.app/api?username=lywlyw2004)
 <!--
 **lywlyw2004/lywlyw2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
